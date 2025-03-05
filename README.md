@@ -1,7 +1,4 @@
-Made this as a birthday present for my girlfriend during lockdown. Small attempt for virtual party.
-
-Sample screenshot of the application .
-![GitHub Logo](/images/screenshots/sample.jpg)
+I Hope this works. Made it on a whim to celebrate Patricias bday . I found it weird cause she said she did not want to do anything.
 
 URL: http://suryakant261.github.io/
 
